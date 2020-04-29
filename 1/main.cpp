@@ -1,4 +1,3 @@
-
 #include "mbed.h"
 #include "fsl_port.h"
 #include "fsl_gpio.h"

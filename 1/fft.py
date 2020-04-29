@@ -12,7 +12,7 @@ x = np.zeros(100)
 y = np.zeros(100)
 z = np.zeros(100) 
 
-serdev = '/dev/ttyACM0'
+serdev = '/dev/ttyACM0' 
 
 s = serial.Serial(serdev,115200)
 
